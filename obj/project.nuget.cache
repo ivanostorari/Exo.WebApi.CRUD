@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Og9ddSk12V4d6EylXr9KZCtWIDWnhMkhkX2+NxiCFPVHaWNlShUbcnzesXR335kvfaFiDyEnkbHjWCb5RTAIbA==",
+  "dgSpecHash": "Zp82u5XBvfFK1kmoWgfhFf3/fq3dg/3T2DhVrtnCtKoTRdOca4bLpUshOMaU3lDP4h/w5RGcF8lKQDhXbJ6Djg==",
   "success": true,
   "projectFilePath": "C:\\Users\\IVAN WAGNER\\Desktop\\04d - Atividade 4 - Criar o restante do CRUD de projetos, testando-o no Insomnia\\Exo.WebApi.CRUD\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
@@ -143,10 +143,10 @@
     "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
     "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
